@@ -1,16 +1,23 @@
-### Hi there 👋
+### About Me
 
-<!--
-**fghali/fghali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fawaz is Senior Lecturer at [LJMU](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/school-of-computer-science-and-mathematics/fawaz-ghali), working on machine learning and data science. With 20+ years of experience, he may have a learned few things about java, open source, distributed systems, messaging, cloud computing and real-time processing.
 
-Here are some ideas to get you started:
+Fawaz is known for his ability to explain complex subjects, where he split them to smaller topics until anyone can apply. Follow Fawaz on Twitter: [@fawazghali](https://twitter.com/fawazghali).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="center">
+  <a href="https://github.com/fghali?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fghali&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/fghali?tab=repositories">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=fghali&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
