@@ -11,11 +11,5 @@ Fawaz is Senior Lecturer at [LJMU](https://www.ljmu.ac.uk/about-us/staff-profile
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fghali&layout=compact"
     />
   </a>
-  <a href="https://github.com/fghali?tab=repositories">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=fghali&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
+  
 </p>
